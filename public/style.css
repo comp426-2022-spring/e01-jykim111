@@ -90,7 +90,8 @@ a:hover {
 }
 
 .signin {
-  background-color: #f1f1f1
-    /* 25. Align the text for the section with class "signin" to be centered */
+  background-color: #f1f1f1;
+  /* 25. Align the text for the section with class "signin" to be centered */
+  text-align: center;
 
 }
