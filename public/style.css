@@ -61,6 +61,7 @@ button.registerbtn {
   padding: 16px 20px;
   margin: 8px 0;
   /* 19. Set it to have no border */
+  border: none;
 
   cursor: pointer;
   width: 100%;
