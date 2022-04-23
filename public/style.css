@@ -85,6 +85,7 @@ a:hover {
   color: #F0FFFF;
 
   /* 24. Set the text-decoration to underline for links on mouseover */
+  text-decoration: underline;
 
 }
 
