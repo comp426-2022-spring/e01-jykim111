@@ -56,6 +56,7 @@ button.registerbtn {
   background-color: #000080;
 
   /* 18. Set the text color to white using the hex color */
+  color: #FFFFFF;
 
   padding: 16px 20px;
   margin: 8px 0;
