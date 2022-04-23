@@ -46,6 +46,7 @@ hr {
   margin-bottom: 30px;
 
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
+  border: 2px solid #F0FFFF;
 
 }
 
